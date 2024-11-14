@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Bio from "./components/Bio";
 import Skills from "./components/Skills";
-import WorkExperience from "./components/WorkExperience";
+import ProjectExperience from "./components/ProjectExperience";
 import EducationSection from "./components/EducationSection";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
@@ -17,7 +17,7 @@ const App = () => {
         <Navbar />
         <Bio />
         <Skills />
-        <WorkExperience />
+        <ProjectExperience />
         <Projects />
         <EducationSection />
         <ContactForm />
