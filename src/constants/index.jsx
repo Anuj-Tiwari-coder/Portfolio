@@ -143,27 +143,61 @@ export const SKILLS = [
   },
 ];
 
-export const EXPERIENCES = [
+export const PROJECT_EXPERIENCES = [
   {
-    title: "Lead Frontend Developer",
-    company: "Innovative Tech Solutions",
-    duration: "July 2020 - Present",
-    description:
-      "As the Lead Frontend Developer, I spearheaded the development of advanced web applications using cutting-edge technologies like React, Redux, and TypeScript. I worked closely with cross-functional teams, including designers, product managers, and backend developers, to deliver seamless and high-performance user experiences.",
+    project_name: "complete-python-program ",
+    language: " Python",
+    software: "Python",
+    duration: "September 2022 - November 2022",
+    problem_Faced:
+      "Installing and facing different error as pre the proram while practicing.",
   },
   {
-    title: "Frontend Engineer",
-    company: "Digital Creations",
-    duration: "February 2016 - June 2020",
-    description:
-      "At Digital Creations, I focused on building highly interactive and responsive web interfaces using HTML, CSS, JavaScript, and modern libraries like React. I collaborated closely with UX/UI designers to implement design changes that enhanced user engagement and satisfaction. My role involved optimizing website performance, ensuring cross-browser compatibility, and implementing SEO best practices. ",
+    project_name: "Image-To-Text-Recognition",
+    language: "Java",
+    software: "Android Studio",
+    duration: "February 2024 - March 2024",
+    problem_Faced: "I faced some Build.gradle to build this project in Android Studio." ,
   },
   {
-    title: "Junior Web Developer",
-    company: "Bright Future Technologies",
-    duration: "August 2014 - January 2016",
-    description:
-      "In my role as a Junior Web Developer, I assisted in the development and maintenance of various web applications. I gained hands-on experience in utilizing HTML, CSS, and JavaScript to create user-friendly interfaces. I actively participated in team meetings, contributed to project planning, and collaborated with senior developers to implement new features.",
+    project_name: " CURD-Operation-by-Django",
+    language: "HTML, Python",
+    software: "Django-Python",
+    duration: "June 2024 -  June 2020",
+    problem_Faced:
+      "Creating Django Environment , Maniplate and excute the shell. ",
+  },
+  {
+    project_name: " Students-Report-Card-Generator ",
+    language: "HTML, Python",
+    software: "Django-Python",
+    duration: "July 2024 - July 2024",
+    problem_Faced:
+      "manage the data using fake Detail program and align on the report card.",
+  },
+  {
+    project_name: "Fake Details Generator ",
+    language: " Python",
+    software: "Django-Python",
+    duration: "July 2024 - July 2024",
+    problem_Faced:
+      "It's difficult to create the data and Manipulate the the shell.",
+  },
+  {
+    project_name: "Custom-Modification ",
+    language: "Python",
+    software: "Django-Python",
+    duration: "July 2024 - August 2024",
+    problem_Faced:
+      "all Clear.",
+  },
+  {
+    project_name: "Protfolio ",
+    language: " HTML, Tailwind CSS, React.js",
+    software: "Visual Studio",
+    duration: "October 2024 - November 2024",
+    problem_Faced:
+      "All Clear",
   },
 ];
 
