@@ -13,6 +13,10 @@ const App = () => {
     <div className="relative h-full overflow-y-auto antialiased">
       <div className="fixed inset-0 bg-fixed bg-cover bg-center bg-img"></div>
       <div className="relative z-10 flex flex-col items-center p-4 space-y-8 container mx-auto">
+
+<h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-200">
+  My Lovely makeh
+</h1>
         <Hero />
         <Navbar />
         <Bio />
